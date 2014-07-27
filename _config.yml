@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            n.4
+tagline:          'Thoughts on Freedom, Law, & Technology'
+description:      'Thoughts on Freedeom, Law, and Technology.'
+url:              http://kjinho.github.io/note4
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Jin-Ho King'
+  url:            https://twitter.com/jinho-king
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/kjinho/note4
