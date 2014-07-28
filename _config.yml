@@ -10,7 +10,7 @@ title:            n.4
 tagline:          'Thoughts on Freedom, Law, & Technology'
 description:      'Thoughts on Freedeom, Law, and Technology.'
 url:              http://kjinho.github.io/note4
-baseurl:          'note4/'
+baseurl:          '/'
 paginate:         5
 
 author:
